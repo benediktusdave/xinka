@@ -13,7 +13,7 @@ const Footer = () => {
           <h4 className="font-semibold text-lg">Xinka Solution</h4>
           <p className="pt-0.5">Jl. Hayamwuruk No.47, Purwodadi-Grobogan</p>
           <p className="pt-0.5">Telepon: +62 858-6507-1993</p>
-          <p className="pt-0.5">Email: xinka@gmail.com</p>
+          <p className="pt-0.5">Email: xinkasolution@gmail.com</p>
         </div>
 
         {/* Sosial Media */}
